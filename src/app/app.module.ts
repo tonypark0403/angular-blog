@@ -8,6 +8,7 @@ import { FooterComponent } from "./components/footer/footer.component";
 import { ArticleListComponent } from "./components/article-list/article-list.component";
 import { AboutComponent } from "./components/about/about.component";
 import { ArticleComponent } from "./components/article/article.component";
+import { NotFoundComponent } from "./components/not-found/not-found.component";
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { ArticleComponent } from "./components/article/article.component";
     FooterComponent,
     ArticleComponent,
     ArticleListComponent,
-    AboutComponent
+    AboutComponent,
+    NotFoundComponent
   ],
   imports: [BrowserModule, AppRoutingModule],
   providers: [],
