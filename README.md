@@ -12,4 +12,5 @@ Blog features implemented by angular family libraries
 
 - [x] Initialize project
 - [x] Implement Blog
-- [ ] Add Meta & Open Graph Tag
+- [x] Add Meta & Open Graph Tag
+- [ ] Angular Universal - Server-side rendering
