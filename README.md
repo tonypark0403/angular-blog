@@ -11,3 +11,5 @@ Blog features implemented by angular family libraries
 ### `Blog`
 
 - [x] Initialize project
+- [x] Implement Blog
+- [ ] Add Meta & Open Graph Tag
